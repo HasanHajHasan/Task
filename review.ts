@@ -1,4 +1,4 @@
-class Task{
+class TASK2{
     constructor(){
         
     }
